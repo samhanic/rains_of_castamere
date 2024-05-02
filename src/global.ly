@@ -18,6 +18,8 @@ global= {
   \key mib \major
   s1*4
   \key sib \major
-  s1*17
+  s1*15
+  s1^\markup {"Rall."}
+  s1
   \bar "|."
 }
